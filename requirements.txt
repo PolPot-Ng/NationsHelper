@@ -1,0 +1,9 @@
+streamlit>=1.22.0
+nbtschematic
+pyautogui
+pygetwindow
+numpy
+opencv-python
+pytesseract
+matplotlib
+pillow
